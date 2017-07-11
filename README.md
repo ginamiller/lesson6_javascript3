@@ -4,19 +4,18 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 11, 2017
 
 ### Student Name:  
-(First and Last Name)
+Gina Miller
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this lesson, we created a Photo Gallery. The Photo Gallery uses functions for the left and right arrows. When the user clicks the "Show more images" button, two images will be added to the gallery (one on each side).  
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://ginamiller.github.io/lesson6_javascript3/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Document Object Model
+2. Accessing elements by id value and tag name
+3. Accessing Elements with CSS Selectors
